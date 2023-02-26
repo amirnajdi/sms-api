@@ -27,6 +27,7 @@ php artisan db:seed
 php artisan serve
 ```
 
+
 1. report page
     -http://127.0.0.1:8000/sms/report
 2. send sms
